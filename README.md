@@ -9,3 +9,8 @@ Q2 ,
 Q7 , 
 
 ![image](https://github.com/user-attachments/assets/2a3de927-2e58-41f1-b27d-3ef62e151961)
+
+
+Q8 , 
+
+![image](https://github.com/user-attachments/assets/a3766f3d-106d-442c-9475-4eb9ebed3c7d)
